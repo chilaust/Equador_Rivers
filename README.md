@@ -2,10 +2,15 @@
 An analysis of the Tiyuyaku , Napo, Cindy, and Canuayaku rivers.
 
 River Summary: 
+
 Napo 
+
 Location: The Napo River is one of the major tributaries of the Amazon River, originating in the Ecuadorian Andes and flowing through the Amazon basin. 
+
 Characteristics: It's a large, fast-flowing river that cuts across diverse ecosystems, including tropical rainforests. The Napo is a lifeline for local biodiversity and human communities. 
+
 Mining Impact: Mining activities, particularly for gold, have been a concern along the Napo River, potentially introducing heavy metals and sediment into the water, which can affect both ecological and human health. 
+
 Conservation: The Napo is subject to international conservation efforts, as it supports diverse ecosystems and indigenous communities. 
  
 
